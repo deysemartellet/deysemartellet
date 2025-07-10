@@ -1,9 +1,8 @@
 Olá, mundo! Eu sou a Deyse Martellet.
 
-- 🌱 Atualmente estou estudando HTML, CSS3 e JavaScript;
-- 👯 Viso futuramente trabalhar com front-end;
+- 🌱 HTML, CSS, JS, Java, C++, MySQL
+- 👯 Back-end;
 - 📫 E-mail para contato: dmartellet@gmail.com;
-- 😄 Pronouns: ela/dela;
 
 <div align="center">
   <a href="https://github.com/deysemartellet">
@@ -23,5 +22,4 @@ Olá, mundo! Eu sou a Deyse Martellet.
  	<a href="https://www.twitch.tv/nebula_bae" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:dmartellet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/deyse-martellet-682823252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Deyse-pic" style="border-radius:50px;" src="https://i.imgur.com/O1Y8h2f.gif?width=676&height=676">
 </div>
